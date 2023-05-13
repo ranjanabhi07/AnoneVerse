@@ -5,7 +5,7 @@
  
  # these are the npm installed packages 📧  :-
  
- "dependencies" 🦖 : {
+ "dependencies" 🦖 :  {
       "bcrypt",
       "body-parser",
       "dotenv",
