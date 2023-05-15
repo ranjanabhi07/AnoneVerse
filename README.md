@@ -4,8 +4,9 @@
     this website is not hosted yet as soon as i will complete my work i will host it.
  
  
- # these are the npm installed packages 📧  🦖 :-
- "dependencies" 🦖 :  {
+ # these are the npm installed packages 📧  🦖 :-.
+   
+   "dependencies"  :  {
       "bcrypt",
       "body-parser",
       "dotenv",
