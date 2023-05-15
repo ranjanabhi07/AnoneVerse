@@ -2,11 +2,10 @@
  
  🦖 this is a website  with high security login using google authentication login and locally highly protected using salting and hashing.   
     this website is not hosted yet as soon as i will complete my work i will host it.
- 
- 
- # these are the npm installed packages 📧  🦖 :-.
-   
-   "dependencies"  :  {
+    
+   # these are the npm installed packages 📧  🦖 :-
+    
+    "dependencies"  :  {
       "bcrypt",
       "body-parser",
       "dotenv",
@@ -23,3 +22,6 @@
       "passport-local",
       "passport-local-mongoose"
   }
+ 
+ 
+ 
