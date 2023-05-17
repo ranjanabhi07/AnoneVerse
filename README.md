@@ -24,4 +24,7 @@
   }
  
  
+ the file contains ejs tamplets file in views folder.
+ 
+ 
  
